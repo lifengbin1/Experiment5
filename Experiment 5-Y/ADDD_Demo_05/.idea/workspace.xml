@@ -4,24 +4,148 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6555398a-5ce3-4e5e-a410-262b6dfe5bc7" name="Changes" comment="" />
+    <list default="true" id="6555398a-5ce3-4e5e-a410-262b6dfe5bc7" name="Changes" comment="发发发">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ADDD_Demo_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/ListStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/deleByIDServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/insertByExcelServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/insertByInputServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/searchServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/selectAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/controller/updateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/dbutil/Dbconn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/ListStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/deleByIDServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/insertByExcelServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/insertByInputServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/searchServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/selectAllServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/servlet/updateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ListStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/deleByIDServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/insertByExcelServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/insertByInputServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/searchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/selectAllServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/updateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dbutil/Dbconn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/ListStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/deleByIDServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/insertByExcelServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/insertByInputServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/searchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/selectAllServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servlet/updateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/c3p0-0.9.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/fastjson-1.2.68.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mchange-commons-java-0.2.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/allShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/dele.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/insert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/dele.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/deleShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/iconfont/font_2972909_3oef5s7kzs9/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/logo/logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/insert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/insertShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/insert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/insertShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/searchShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/xlsx.core.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/nav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/showStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/updateShow.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/videos/bg.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../excel/student.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysql/Student.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="2Oo6O5e3leZUi2ynivle0k2V3IM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/桌面/Experiment 5-Y",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "GitLink.ProjectSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,9 +159,21 @@
       <updated>1682214554657</updated>
       <workItem from="1682214559168" duration="16000" />
     </task>
+    <task id="LOCAL-00001" summary="发发发">
+      <created>1683858899202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683858899202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="发发发" />
+    <option name="LAST_COMMIT_MESSAGE" value="发发发" />
   </component>
 </project>
